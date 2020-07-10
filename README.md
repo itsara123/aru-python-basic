@@ -48,7 +48,46 @@ Output:
 <br/>
 <br/>
 
-#### 3. Sum me if you can. (or else you have to concat me)
+#### 3. Grade calculator
+> รับข้อมูลคะแนน และแสดงผลเกรดของนิสิตกลับไป โดยใช้ช่วงคะแนนต่อไปนี้ (หากไม่อยู่ในช่วงใดให้แสดงข้อความ 'Invalid score')<br/>
+> 80 - 100: A<br/>
+> 75 - 79: B+<br/>
+> 70 - 74: B<br/>
+> 65 - 69: C+<br/>
+> 60 - 64: C<br/>
+> 55 - 59: D+<br/>
+> 50 - 54: D<br/>
+> 0 - 49: F
+
+Input1:
+```
+88
+```
+Output1:
+```
+A
+```
+Input2:
+```
+64
+```
+Output2:
+```
+C
+```
+Input3:
+```
+112
+```
+Output3:
+```
+Invalid score
+```
+
+<br/>
+<br/>
+
+#### 4. Sum me if you can. (or else you have to concat me)
 > รับข้อมูลมาสองครั้ง หากทั้งคู่เป็นตัวเลขให้ทำแสดงผลบวก มิเช่นนั้นให้นำข้อมูลทั้งสองมาเขียนต่อกันตามลำดับ
 
 Input1:
