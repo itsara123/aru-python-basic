@@ -6,8 +6,8 @@
 - [x] Print() / Input()
 - [x] Basic Data types (int, float, string, ...)
 - [x] Condition (if, else)
-- [ ] While loop
-- [ ] For loop
+- [x] While loop
+- [x] For loop
 - [ ] List
 - [ ] Dictionary
 - [ ] Function (def)
@@ -87,33 +87,36 @@ Invalid score
 <br/>
 <br/>
 
-#### 4. Sum me if you can. (or else you have to concat me)
-> รับข้อมูลมาสองครั้ง หากทั้งคู่เป็นตัวเลขให้ทำแสดงผลบวก มิเช่นนั้นให้นำข้อมูลทั้งสองมาเขียนต่อกันตามลำดับ
+#### 4. Grade calculator (AD)
+> ประยุกต์โปรแกรมในข้อ 3 ให้ทำงานได้หลายครั้ง โดยระบุจำนวนครั้งใน input ครั้งแรก และคำนวณเกรดไปอีกจำนวนเท่านั้น
 
 Input1:
 ```
-1
 2
+88
+40
 ```
 Output1:
 ```
-3
+A
+F
 ```
 Input2:
 ```
-a
-4
+64
+77
 ```
 Output2:
 ```
-a4
+C
+B+
 ```
 Input3:
 ```
-Ni
-ne
+1
+112
 ```
 Output3:
 ```
-Nine
+Invalid score
 ```
