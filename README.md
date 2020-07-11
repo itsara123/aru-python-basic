@@ -4,8 +4,8 @@
 
 ### Topic
 - [x] Print() / Input()
-- [ ] Basic Data types (int, float, string, ...)
-- [ ] Condition (if, else)
+- [x] Basic Data types (int, float, string, ...)
+- [x] Condition (if, else)
 - [ ] While loop
 - [ ] For loop
 - [ ] List
